@@ -14,6 +14,8 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ammarmohsin}1212%2Fhit-counter)
 
 # Python Basics for Data Science
 This repository contains the basics of python programming i.e., String, Operators, Comments, Variables, Type Conversion, Conditional Statements, Functions, Loops, Indexes, Data Structures with simple and practical examples
@@ -32,7 +34,13 @@ This repository contains the basics of python programming i.e., String, Operator
 12.	Indexing
 13.	Basic Data Structures in Python
 
+https://github-readme-stats.vercel.app/api/top-langs/?ammarmohsin={ammarmohsin}
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
+https://github-readme-stats.vercel.app/api?username={username}
+
+
 
 Please follow on followings:
-
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) https://github.com/ammarmohsin
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/ammar777/
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) https://twitter.com/ammarmohsin7
