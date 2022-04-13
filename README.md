@@ -44,8 +44,13 @@ This repository contains the basics of python programming i.e., String, Operator
   
 </p>
 
-"https://github-readme-streak-stats.herokuapp.com/?user=ammarmohsin&hide_border=true&theme=radical"
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammarmohsin&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarmohsin&hide_border=true&theme=radical" />
+  
+</p>
+
 
 Please follow on followings:
 
