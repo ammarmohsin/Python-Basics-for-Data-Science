@@ -40,7 +40,7 @@ This repository contains the basics of python programming i.e., String, Operator
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammarmohsin&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={ammarmohsin}" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarmohsin" />
   
 </p>
 
