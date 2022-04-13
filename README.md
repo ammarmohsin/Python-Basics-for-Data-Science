@@ -34,11 +34,16 @@ This repository contains the basics of python programming i.e., String, Operator
 12.	Indexing
 13.	Basic Data Structures in Python
 
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username={ammarmohsin})
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ammarmohsin}&theme=vue)
 
+
 ![](https://github-readme-stats.vercel.app/api?username={ammarmohsin})
+
 
 
 
